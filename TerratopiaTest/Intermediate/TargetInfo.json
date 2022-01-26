@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TerratopiaTest",
+			"Path": "F:\\GAME DEV\\Game Dev\\Unreal Engine\\Saved Projects\\TerratopiaTest\\TerratopiaTest\\Source\\TerratopiaTest.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TerratopiaTestEditor",
+			"Path": "F:\\GAME DEV\\Game Dev\\Unreal Engine\\Saved Projects\\TerratopiaTest\\TerratopiaTest\\Source\\TerratopiaTestEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

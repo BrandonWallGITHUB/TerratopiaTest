@@ -1,0 +1,9 @@
+F:\GAME DEV\Game Dev\Unreal Engine\Saved Projects\TerratopiaTest\TerratopiaTest\Intermediate\Build\Win64\UE4Editor\Development\TerratopiaTest\Definitions.TerratopiaTest.h
+D:\Games\Epic Games Library\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Games\Epic Games Library\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+F:\GAME DEV\Game Dev\Unreal Engine\Saved Projects\TerratopiaTest\TerratopiaTest\Source\TerratopiaTest/TerratopiaTestGameMode.h
+D:\Games\Epic Games Library\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Games\Epic Games Library\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Games\Epic Games Library\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Games\Epic Games Library\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+F:\GAME DEV\Game Dev\Unreal Engine\Saved Projects\TerratopiaTest\TerratopiaTest\Intermediate\Build\Win64\UE4Editor\Inc\TerratopiaTest\TerratopiaTestGameMode.generated.h

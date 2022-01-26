@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TerratopiaTest.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\GAME DEV\Game Dev\Unreal Engine\Saved Projects\TerratopiaTest\TerratopiaTest\Intermediate\Build\Win64\TerratopiaTestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\GAME DEV\Game Dev\Unreal Engine\Saved Projects\TerratopiaTest\TerratopiaTest\Intermediate\Build\Win64\UE4Editor\Development\TerratopiaTest\TerratopiaTest.cpp.obj"
+"F:\GAME DEV\Game Dev\Unreal Engine\Saved Projects\TerratopiaTest\TerratopiaTest\Intermediate\Build\Win64\UE4Editor\Development\TerratopiaTest\TerratopiaTestCharacter.cpp.obj"
+"F:\GAME DEV\Game Dev\Unreal Engine\Saved Projects\TerratopiaTest\TerratopiaTest\Intermediate\Build\Win64\UE4Editor\Development\TerratopiaTest\TerratopiaTestGameMode.cpp.obj"
+"F:\GAME DEV\Game Dev\Unreal Engine\Saved Projects\TerratopiaTest\TerratopiaTest\Intermediate\Build\Win64\UE4Editor\Development\TerratopiaTest\TerratopiaTestHUD.cpp.obj"
+"F:\GAME DEV\Game Dev\Unreal Engine\Saved Projects\TerratopiaTest\TerratopiaTest\Intermediate\Build\Win64\UE4Editor\Development\TerratopiaTest\TerratopiaTestProjectile.cpp.obj"
+"F:\GAME DEV\Game Dev\Unreal Engine\Saved Projects\TerratopiaTest\TerratopiaTest\Intermediate\Build\Win64\UE4Editor\Development\TerratopiaTest\TerratopiaTest.init.gen.cpp.obj"
+"F:\GAME DEV\Game Dev\Unreal Engine\Saved Projects\TerratopiaTest\TerratopiaTest\Intermediate\Build\Win64\UE4Editor\Development\TerratopiaTest\TerratopiaTestCharacter.gen.cpp.obj"
+"F:\GAME DEV\Game Dev\Unreal Engine\Saved Projects\TerratopiaTest\TerratopiaTest\Intermediate\Build\Win64\UE4Editor\Development\TerratopiaTest\TerratopiaTestGameMode.gen.cpp.obj"
+"F:\GAME DEV\Game Dev\Unreal Engine\Saved Projects\TerratopiaTest\TerratopiaTest\Intermediate\Build\Win64\UE4Editor\Development\TerratopiaTest\TerratopiaTestHUD.gen.cpp.obj"
+"F:\GAME DEV\Game Dev\Unreal Engine\Saved Projects\TerratopiaTest\TerratopiaTest\Intermediate\Build\Win64\UE4Editor\Development\TerratopiaTest\TerratopiaTestProjectile.gen.cpp.obj"
+"F:\GAME DEV\Game Dev\Unreal Engine\Saved Projects\TerratopiaTest\TerratopiaTest\Intermediate\Build\Win64\UE4Editor\Development\TerratopiaTest\Default.rc2.res"
+/OUT:"F:\GAME DEV\Game Dev\Unreal Engine\Saved Projects\TerratopiaTest\TerratopiaTest\Intermediate\Build\Win64\UE4Editor\Development\TerratopiaTest\UE4Editor-TerratopiaTest.lib"
